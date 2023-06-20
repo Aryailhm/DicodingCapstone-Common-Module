@@ -25,11 +25,8 @@ Pod::Spec.new do |s|
   s.framework = "AlamofireImage"
 
  
-  s.source_files = "Core/**/*.{swift}"
- 
-  #s.resources = "Core/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
-  #s.dependency 'Alamofire'
- 
+  s.source_files = "Common/**/*.{swift}"
+  
   s.swift_version = "5"
  
 end
