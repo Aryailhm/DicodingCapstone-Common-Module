@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.framework = "Alamofire"
   s.framework = "AlamofireImage"
 
-  s.source_files = "Core/**/*.{swift}"
+  s.source_files = "Common/**/*.{swift}"
   
   s.swift_version = "5"
  
