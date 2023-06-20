@@ -1,0 +1,77 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;\red224\green228\blue232;
+\red67\green180\blue228;\red82\green90\blue101;\red234\green234\blue234;\red156\green123\blue232;\red253\green196\blue67;
+}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c100000\c100000\c99985;\cssrgb\c90306\c91485\c92941;
+\cssrgb\c31178\c75932\c91579;\cssrgb\c39681\c42824\c47088;\cssrgb\c93436\c93436\c93320;\cssrgb\c67673\c57497\c92719;\cssrgb\c99812\c80543\c32575;
+}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid1\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh14880\viewkind0
+\deftab720
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0
+\f0\fs28\fsmilli14400 \cf2 \cb3 {\listtext	1	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 MIT \cb3 \strokec5 License\cb3 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb7 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2	}\cb7 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 \'a0\cb7 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 Copyright\cb3 \strokec4  (c) \cb3 \strokec8 2022\cb3 \strokec4  \cb3 \strokec5 ARYA\cb3 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb7 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	4	}\cb7 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 \'a0\cb7 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	5	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 Permission\cb3 \strokec4  \cb3 \strokec5 is\cb3 \strokec4  hereby granted, free \cb3 \strokec5 of\cb3 \strokec4  charge, to any person obtaining a copy\cb3 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb7 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	6	}\cb7 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 of\cb7 \strokec4  \cb7 \strokec5 this\cb7 \strokec4  software \cb7 \strokec5 and\cb7 \strokec4  associated documentation files (the\'a0\cb7 \strokec9 "Software"\cb7 \strokec4 ), to deal\cb7 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	7	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 in\cb3 \strokec4 \'a0the \cb3 \strokec5 Software\cb3 \strokec4  without restriction, including without limitation the rights\cb3 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb7 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	8	}\cb7 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 to \cb7 \strokec5 use\cb7 \strokec4 , copy, modify, merge, publish, distribute, sublicense, \cb7 \strokec5 and\cb7 \strokec4 /\cb7 \strokec5 or\cb7 \strokec4  sell\cb7 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	9	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 copies \cb3 \strokec5 of\cb3 \strokec4  the \cb3 \strokec5 Software\cb3 \strokec4 , \cb3 \strokec5 and\cb3 \strokec4  to permit persons to whom the \cb3 \strokec5 Software\cb3 \strokec4  \cb3 \strokec5 is\cb3 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb7 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	10	}\cb7 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 furnished to\'a0\cb7 \strokec5 do\cb7 \strokec4 \'a0so, subject to the following conditions:\cb7 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	11	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 \'a0\cb3 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb7 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	12	}\cb7 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 The\cb7 \strokec4  above copyright notice \cb7 \strokec5 and\cb7 \strokec4  \cb7 \strokec5 this\cb7 \strokec4  permission notice shall be included\'a0\cb7 \strokec5 in\cb7 \strokec4 \'a0all\cb7 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	13	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 copies \cb3 \strokec5 or\cb3 \strokec4  substantial portions \cb3 \strokec5 of\cb3 \strokec4  the \cb3 \strokec5 Software\cb3 \strokec4 .\cb3 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb7 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	14	}\cb7 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 \'a0\cb7 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	15	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 THE SOFTWARE IS PROVIDED\'a0\cb3 \strokec9 "AS IS"\cb3 \strokec4 , WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\cb3 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb7 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	16	}\cb7 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\cb7 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	17	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\cb3 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb7 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	18	}\cb7 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\cb7 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	19	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\cb3 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb7 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	20	}\cb7 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\cb7 \strokec6 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	21	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 SOFTWARE.\cb3 \strokec6 \
+}
