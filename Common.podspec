@@ -20,10 +20,10 @@ Pod::Spec.new do |s|
   }
  
   s.framework = "UIKit"
-  s.framework = "Realm"
-  s.framework = "RealmSwift"
-  s.framework = "Alamofire"
-  s.framework = "AlamofireImage"
+
+  s.dependency 'RealmSwift'
+  s.dependency 'AlamofireImage'
+  s.dependency 'Alamofire'
 
   s.source_files = "Common/**/*.{swift}"
   
