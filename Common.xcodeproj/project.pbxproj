@@ -27,7 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		16E235EE945D76646BAF1829 /* Pods-Common.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Common.release.xcconfig"; path = "Target Support Files/Pods-Common/Pods-Common.release.xcconfig"; sourceTree = "<group>"; };
+		16E235EE945D76646BAF1829 /* Pods-Common.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Common.release.xcconfig"; path = "../../Common/Pods/Target Support Files/Pods-Common/Pods-Common.release.xcconfig"; sourceTree = "<group>"; };
 		4D5212742A3F358B008FA865 /* Common.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Common.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D5212772A3F358B008FA865 /* Common.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Common.h; sourceTree = "<group>"; };
 		4D5212842A3F35D5008FA865 /* GameCatalogTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GameCatalogTableViewCell.swift; path = "../../../../../Common/Common/Module/Generic Views/Game Catalog Cell/GameCatalogTableViewCell.swift"; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		4D5212B92A3F4983008FA865 /* GameCatalogResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameCatalogResponse.swift; sourceTree = "<group>"; };
 		4D5213602A400CE8008FA865 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B0EFAFD2A229920992734933 /* Pods_Common.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Common.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BF083C44422D359832699D7B /* Pods-Common.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Common.debug.xcconfig"; path = "Target Support Files/Pods-Common/Pods-Common.debug.xcconfig"; sourceTree = "<group>"; };
+		BF083C44422D359832699D7B /* Pods-Common.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Common.debug.xcconfig"; path = "../../Common/Pods/Target Support Files/Pods-Common/Pods-Common.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -260,7 +260,7 @@
 			mainGroup = 4D52126A2A3F358B008FA865;
 			packageReferences = (
 				4D5212912A3F39E5008FA865 /* XCRemoteSwiftPackageReference "AlamofireImage" */,
-				4D5212992A3F4122008FA865 /* XCRemoteSwiftPackageReference "Alamofire" */,
+				4D5212992A3F4122008FA865 /* XCRemoteSwiftPackageReference "Alamofire.git" */,
 				4D5212A62A3F4841008FA865 /* XCRemoteSwiftPackageReference "realm-swift" */,
 			);
 			productRefGroup = 4D5212752A3F358B008FA865 /* Products */;
@@ -540,7 +540,7 @@
 				version = 4.2.0;
 			};
 		};
-		4D5212992A3F4122008FA865 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+		4D5212992A3F4122008FA865 /* XCRemoteSwiftPackageReference "Alamofire.git" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
 			requirement = {
@@ -566,7 +566,7 @@
 		};
 		4D52129A2A3F4122008FA865 /* Alamofire */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 4D5212992A3F4122008FA865 /* XCRemoteSwiftPackageReference "Alamofire" */;
+			package = 4D5212992A3F4122008FA865 /* XCRemoteSwiftPackageReference "Alamofire.git" */;
 			productName = Alamofire;
 		};
 		4D5212A72A3F4841008FA865 /* Realm */ = {
