@@ -16,6 +16,11 @@ public class GameCatalogTableViewCell: UITableViewCell {
         return UINib(nibName: "GameCatalogTableViewCell", bundle: nil)
     }()
     
+    var frameworkBundle:Bundle? {
+        let bundleId = "com.arya.Common"
+        return Bundle(identifier: bundleId)
+    }
+    
     // MARK: - IBOUTLET
     @IBOutlet weak var containerView: UIView!
     @IBOutlet weak var gameImage: UIImageView!
