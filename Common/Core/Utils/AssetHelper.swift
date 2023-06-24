@@ -10,6 +10,6 @@ import UIKit
 
 public class AssetHelper {
     public static func getImage(name: String) -> UIImage? {
-        return UIImage.init(named: "name", in: Bundle(for: self), with: nil)
+        return UIImage.init(named: name, in: Bundle(for: self), with: nil)
     }
 }
