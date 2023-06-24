@@ -31,7 +31,7 @@
 		4D5212742A3F358B008FA865 /* Common.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Common.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D5212772A3F358B008FA865 /* Common.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Common.h; sourceTree = "<group>"; };
 		4D5212842A3F35D5008FA865 /* GameCatalogTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GameCatalogTableViewCell.swift; path = "../../../../../Common/Common/Module/Generic Views/Game Catalog Cell/GameCatalogTableViewCell.swift"; sourceTree = "<group>"; };
-		4D5212852A3F35D5008FA865 /* GameCatalogTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = GameCatalogTableViewCell.xib; path = "../../../../../Common/Common/Module/Generic Views/Game Catalog Cell/GameCatalogTableViewCell.xib"; sourceTree = "<group>"; };
+		4D5212852A3F35D5008FA865 /* GameCatalogTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = GameCatalogTableViewCell.xib; path = "Common/Module/Generic Views/Game Catalog Cell/GameCatalogTableViewCell.xib"; sourceTree = SOURCE_ROOT; };
 		4D52129F2A3F462C008FA865 /* GameModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameModel.swift; sourceTree = "<group>"; };
 		4D5212A22A3F47A0008FA865 /* GameMapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameMapper.swift; sourceTree = "<group>"; };
 		4D5212A32A3F47A0008FA865 /* WishlistMapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WishlistMapper.swift; sourceTree = "<group>"; };
@@ -260,7 +260,7 @@
 			mainGroup = 4D52126A2A3F358B008FA865;
 			packageReferences = (
 				4D5212912A3F39E5008FA865 /* XCRemoteSwiftPackageReference "AlamofireImage" */,
-				4D5212992A3F4122008FA865 /* XCRemoteSwiftPackageReference "Alamofire.git" */,
+				4D5212992A3F4122008FA865 /* XCRemoteSwiftPackageReference "Alamofire" */,
 				4D5212A62A3F4841008FA865 /* XCRemoteSwiftPackageReference "realm-swift" */,
 			);
 			productRefGroup = 4D5212752A3F358B008FA865 /* Products */;
@@ -540,7 +540,7 @@
 				version = 4.2.0;
 			};
 		};
-		4D5212992A3F4122008FA865 /* XCRemoteSwiftPackageReference "Alamofire.git" */ = {
+		4D5212992A3F4122008FA865 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
 			requirement = {
@@ -566,7 +566,7 @@
 		};
 		4D52129A2A3F4122008FA865 /* Alamofire */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 4D5212992A3F4122008FA865 /* XCRemoteSwiftPackageReference "Alamofire.git" */;
+			package = 4D5212992A3F4122008FA865 /* XCRemoteSwiftPackageReference "Alamofire" */;
 			productName = Alamofire;
 		};
 		4D5212A72A3F4841008FA865 /* Realm */ = {
