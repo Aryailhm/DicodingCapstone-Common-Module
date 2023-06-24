@@ -16,7 +16,7 @@ public class GameCatalogTableViewCell: UITableViewCell {
         return UINib(nibName: "GameCatalogTableViewCell", bundle: nil)
     }()
     
-    public static var frameworkBundle:Bundle? {
+    public static var frameworkBundle: Bundle? {
         let bundleId = "com.arya.Common"
         return Bundle(identifier: bundleId)
     }
