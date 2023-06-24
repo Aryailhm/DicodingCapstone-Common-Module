@@ -13,7 +13,7 @@ public class GameCatalogTableViewCell: UITableViewCell {
     public static let ID = "GameCatalogTableViewCell"
     
     public static let nib: UINib? = {
-        return UINib(nibName: "GameCatalogTableViewCell", bundle: Bundle(identifier: "com.arya.Common"))
+        return UINib(nibName: "GameCatalogTableViewCell", bundle: nil)
     }()
     
     // MARK: - IBOUTLET
