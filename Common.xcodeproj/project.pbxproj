@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D1A01902A46A27B00F59CE9 /* AssetHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D1A018F2A46A27B00F59CE9 /* AssetHelper.swift */; };
 		4D5212782A3F358B008FA865 /* Common.h in Headers */ = {isa = PBXBuildFile; fileRef = 4D5212772A3F358B008FA865 /* Common.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4D52128F2A3F35D5008FA865 /* GameCatalogTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5212842A3F35D5008FA865 /* GameCatalogTableViewCell.swift */; };
 		4D5212902A3F35D5008FA865 /* GameCatalogTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4D5212852A3F35D5008FA865 /* GameCatalogTableViewCell.xib */; };
@@ -28,6 +29,7 @@
 
 /* Begin PBXFileReference section */
 		16E235EE945D76646BAF1829 /* Pods-Common.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Common.release.xcconfig"; path = "../../Common/Pods/Target Support Files/Pods-Common/Pods-Common.release.xcconfig"; sourceTree = "<group>"; };
+		4D1A018F2A46A27B00F59CE9 /* AssetHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetHelper.swift; sourceTree = "<group>"; };
 		4D5212742A3F358B008FA865 /* Common.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Common.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D5212772A3F358B008FA865 /* Common.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Common.h; sourceTree = "<group>"; };
 		4D5212842A3F35D5008FA865 /* GameCatalogTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GameCatalogTableViewCell.swift; path = "../../../../../Common/Common/Module/Generic Views/Game Catalog Cell/GameCatalogTableViewCell.swift"; sourceTree = "<group>"; };
@@ -61,6 +63,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4D1A018E2A46A26F00F59CE9 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				4D1A018F2A46A27B00F59CE9 /* AssetHelper.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
 		4D52126A2A3F358B008FA865 = {
 			isa = PBXGroup;
 			children = (
@@ -118,6 +128,7 @@
 		4D52129C2A3F4604008FA865 /* Core */ = {
 			isa = PBXGroup;
 			children = (
+				4D1A018E2A46A26F00F59CE9 /* Utils */,
 				4D5212AB2A3F48C2008FA865 /* Data */,
 				4D5212A12A3F4792008FA865 /* Mapper */,
 				4D52129D2A3F4609008FA865 /* Domain */,
@@ -316,6 +327,7 @@
 			files = (
 				4D5212BB2A3F4983008FA865 /* GameCatalogResponse.swift in Sources */,
 				4D5212B22A3F48D1008FA865 /* WishlistEntity.swift in Sources */,
+				4D1A01902A46A27B00F59CE9 /* AssetHelper.swift in Sources */,
 				4D5212A42A3F47A0008FA865 /* GameMapper.swift in Sources */,
 				4D52128F2A3F35D5008FA865 /* GameCatalogTableViewCell.swift in Sources */,
 				4D5212B12A3F48D1008FA865 /* GameCatalogEntity.swift in Sources */,
