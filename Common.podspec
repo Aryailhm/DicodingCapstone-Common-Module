@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary = "Capstone project Common Modularization"
   s.requires_arc = true
  
-  s.version = "1.0.3"
+  s.version = "1.0.5"
  
   s.license = { :type => "MIT", :file => "LICENSE" }
  
