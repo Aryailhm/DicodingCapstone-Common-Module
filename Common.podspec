@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary = "Capstone project Common Modularization"
   s.requires_arc = true
  
-  s.version = "1.0.9"
+  s.version = "1.0.10"
  
   s.license = { :type => "MIT", :file => "LICENSE" }
  
@@ -25,8 +25,8 @@ Pod::Spec.new do |s|
   s.dependency 'AlamofireImage'
   s.dependency 'Alamofire'
 
-  s.source_files = "Common/**/*.{swift,xib,xcassets}"
-  #s.resources = "Common/**/*.{xib,xcassets}"
+  s.source_files = "Common/**/*.{swift,xib}"
+  s.resources = "Common/**/*.{png,jpeg,jpg,xcassets}"
   
   s.swift_version = "5"
  
